@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>2</order>
+        <size>9</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">4b2956e1094232007f44e1046c8ff693</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-10 19:08:22</sys_created_on>
+        <sys_id>cf295ae1094232007f44e1046c8ff616</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_column_cf295ae1094232007f44e1046c8ff616</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-10 19:08:22</sys_updated_on>
+    </sp_column>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>8e367533db9bd7448264f70fbf9619a5</instance_id>
+        <instance_name>dev66293</instance_name>
+        <name>sp_column_cf295ae1094232007f44e1046c8ff616</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>2</order>
+        <size>9</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">4b2956e1094232007f44e1046c8ff693</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-10 19:08:22</sys_created_on>
+        <sys_id>cf295ae1094232007f44e1046c8ff616</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_column_cf295ae1094232007f44e1046c8ff616</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-10 19:08:22</sys_updated_on>
+    </sp_column>
+</record_update>]]></payload>
+        <payload_hash>-1457226283</payload_hash>
+        <record_name>2</record_name>
+        <reverted_from/>
+        <source>b50a419d070101106d20f4be7c1ed09a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-13 15:21:47</sys_created_on>
+        <sys_id>430a819d070101106d20f4be7c1ed0dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e5407d9fa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-13 15:21:47</sys_updated_on>
+        <type>Column</type>
+        <update_guid>030a819df1010110528b1e2d47982fdd</update_guid>
+        <update_guid_history>030a819df1010110528b1e2d47982fdd:-1457226283</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2">47eea559078101106d20f4be7c1ed00b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-13 18:02:54</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>289e51431ee54a50b16127afb0bfc100</sys_id>
+        <sys_metadata>cf295ae1094232007f44e1046c8ff616</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sp_column_cf295ae1094232007f44e1046c8ff616</sys_update_name>
+        <sys_update_version display_value="sp_column_cf295ae1094232007f44e1046c8ff616">430a819d070101106d20f4be7c1ed0dd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-13 18:02:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
